@@ -20,4 +20,8 @@ class DBConnection
         return $database;
         
     }
+    public static function show()
+    {
+        
+    }
 }
